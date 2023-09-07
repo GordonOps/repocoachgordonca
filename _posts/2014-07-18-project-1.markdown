@@ -1,0 +1,13 @@
+---
+#title: Private Lessons
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: July 2013 – Present
+client: Your Fencer
+category: Personal Coaching
+description: A private lesson is the foundational method of instructing technique and introducing tactics. By reproducing actions with context and skill
+    private lessons provide consistent challenges that can be coupled with an athlete's focus enter the flow state. This method of training speeds up learning 500% compared to group classes with controlled bouting.
+---
