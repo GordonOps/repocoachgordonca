@@ -4,7 +4,7 @@ email: info@coachgordon.ca
 url: https://coachgordon.ca
 description: "For expert and approachable fencing classes and fencing lessons contact Coach Gordon. Operating out of Toronto, Ontario"
 keywords: "NCCP, Fencing, Coach, Private Lesson, Fencing Near Me, Toronto, Ontario, Fencing School, Instructor, Fencing Master, Learning Facillitator, Sabre, Foil, Epee, Epée, Saber, Escrime, Scherma, Esgrima, Fencing in Toronto, Fencing in GTA, Fencing in Ontario"
-skills: "NCCP Fencing Instructor - NCCP Coach Developer - CFF Gender Equity Committee"
+skills: "Fencing Instructor - Coach Developer - Gender Equity"
 meta_author: Geringas Gordon
 
 # Google webmaster tools
@@ -33,19 +33,20 @@ color:
 # Footer settings
 footer:
   copyright: Gordon Geringas
-  location: "REGION"
-#  social: "Let's connect!"
-#  credits: Credits
+  location: Based In
+  social: Around the Web
+#  credits: Thank you to 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-#  - title: twitter
-#    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: https://www.linkedin.com/in/gordongeringas/
+  - title: twitter
+    url: https://www.twitter.com/coachgordon/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Toronto, ON
-  - line: Canada
+  - line: East York, Ontario, Canada
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
